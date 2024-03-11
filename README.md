@@ -14,3 +14,5 @@ MarketPhen is a program for managing all shops
 * Print invoices
 * Data stored in the device is protected
 * I will design an invoice for you according to your request
+
+# Pictur of Market-Phen
