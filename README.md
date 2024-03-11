@@ -28,4 +28,4 @@ MarketPhen is a program for managing all shops
 
 
 # Contact
-[Link Text](mailto:mr.sarimohamedabdelhadi@gmail.com)
+[Contact me in Gmail](mailto:mr.sarimohamedabdelhadi@gmail.com)
